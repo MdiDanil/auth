@@ -1,0 +1,16 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node index.js"
+  },
+  "author": "Dominion",
+  "license": "Dominion Commercial License",
+  "dependencies": {
+    "dominion": "git+https://github.com/yura-chaikovsky/dominion.git",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^3.3.2"
+  }
+}
